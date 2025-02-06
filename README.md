@@ -1,4 +1,4 @@
-# 📊 DevTechnic Google Analytics Dashboard
+# 📊 Zinkxx Google Analytics Dashboard
 
 **DevTechnic Google Analytics Dashboard**, WordPress admin panelinde Google Analytics verilerini göstermek için geliştirilmiş bir eklentidir. API bağlantısı sayesinde ziyaretçi sayıları, sayfa görüntülemeleri ve diğer analiz verilerini görüntüleyebilirsiniz.
 
